@@ -1,0 +1,13 @@
+footer {
+    text-align: center;
+    padding: 5px;
+    background-color: #abbaba;
+    color: #000;
+  }
+  #main{
+    color: red;
+  }
+  .name{
+    color:gold;
+    font-family: 'Courier New', Courier, monospace;
+  }
